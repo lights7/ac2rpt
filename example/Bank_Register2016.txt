@@ -1,0 +1,53 @@
+
+Jesus Saves Organization
+PO Box 5185
+"Rivertown, VA 20189"
+
+Bank Register
+
+1/1/16 To 6/30/16
+7/28/16,Page 1
+1:54:26 PM
+,ID#,Src,Date,Memo/Payee,Deposit,Withdrawal,Balance,Payment Method,Notes
+
+1-1110,USA Checking of globle mission
+,36,CD,2/17/16,Capital One Credit Card,,$78.84,"$5,341.22"
+,CR000019,CR,2/22/16,For Globle Mission,$200.00,,"$5,541.22",Check,1039
+,CR000020,CR,3/13/16,for globle mission,$200.00,,"$5,841.22",Check,1043
+,37,CD,3/17/16,Capital One Credit Card,,$139.99,"$5,701.23"
+,CR000030,CR,3/21/16,for globle mission,"$2,200.00",,"$8,231.23",Online Transfer
+,43,CD,3/22/16,Shakdor N Amgyal,,"$1,000.00","$7,231.23"
+,44,CD,3/22/16,Loan to others,,"$2,000.00","$5,231.23"
+,45,CD,3/24/16,Paypal,,$30.00,"$5,201.23"
+,CR000025,CR,4/5/16,for globle mission,$20.00,,"$5,221.23",Check,2317
+,CR000026,CR,4/5/16,for globle mission,$200.00,,"$5,421.23",Check,1050
+,CR000028,CR,4/10/16,for globle mission,$200.00,,"$5,621.23",Check,1047
+,39,CD,4/17/16,Capital One Credit Card,,$15.99,"$5,605.24"
+,CR000024,CR,4/25/16,for globle mission,"$1,000.00",,"$6,605.24",Check,1040
+,CR000023,CR,5/8/16,"for Globle mission, Shakdo",$500.00,,"$7,105.24",Check,1045
+,CR000029,CR,5/12/16,for globle mission,$100.00,,"$7,205.24",Check,1140
+,47,CD,5/18/16,Capital One Credit Card,,$15.99,"$7,189.25"
+
+,,,,,"$20,290.37","$20,674.39"
+
+1-1114,Paypal Account
+,45,CD,3/24/16,Paypal,$30.00,,$30.00
+
+,,,,,$30.00,$30.00
+
+2-1130,BFCI SPARK Credit Card
+,26,CD,1/4/16,ARVIXE.com,,$19.90,-$106.85
+,27,CD,1/6/16,Stamps.com,,$15.99,-$122.84
+,35,CD,1/19/16,Capital One Credit Card,$74.00,,-$78.84
+,29,CD,1/27/16,Techsoup,,$99.00,-$177.84
+,30,CD,2/6/16,ARVIXE.com,,$25.00,-$202.84
+,31,CD,2/6/16,Stamps.com,,$15.99,-$218.83
+,36,CD,2/17/16,Capital One Credit Card,$78.84,,-$139.99
+,32,CD,3/7/16,Stamps.com,,$15.99,-$155.98
+,37,CD,3/17/16,Capital One Credit Card,$139.99,,-$15.99
+,33,CD,4/6/16,Stamps.com,,$15.99,-$31.98
+,39,CD,4/17/16,Capital One Credit Card,$15.99,,-$15.99
+,47,CD,5/18/16,Capital One Credit Card,$15.99,,$0.00
+
+,,,,,$324.81,$250.81
+

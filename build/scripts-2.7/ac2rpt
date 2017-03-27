@@ -1,0 +1,15 @@
+#!/usr/local/opt/python/bin/python2.7
+
+try:
+  # attempt to use the installed python package
+  import ac2rpt
+except:
+  # attempt to run the package from the source directory
+  import sys
+  sys.path.insert (0,'src')
+  import ac2rpt
+  
+
+if __name__ == '__main__':
+    a=ac2rpt.ac2rpt()
+    a.MainLoop()

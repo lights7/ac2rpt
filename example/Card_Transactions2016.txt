@@ -1,0 +1,31 @@
+
+Jesus Saves Organization
+4 Lakegrove Ave
+"Rivertown, VA 20189"
+
+Donation Receipt
+
+1/1/16 To 6/30/16
+7/28/16,Page 1
+2:02:03 PM
+,ID#,Src,Date,Memo,Account,Debit,Credit,Address 1
+
+Antioch Christian Church,D9,Customer
+,CR000019,CR,2/22/16,For Globle Mission,1-1110,$200.00,,49 Melville Ct
+,,,,,,,,"Stony Brook, NY 11793"
+,,,,,,,,USA
+,CR000020,CR,3/13/16,for globle mission,1-1110,$200.00,,49 Melville Ct
+,,,,,,,,"Stony Brook, NY 11793"
+,,,,,,,,USA
+,CR000026,CR,4/5/16,for globle mission,1-1110,$200.00,,49 Melville Rd
+,,,,,,,,"Stony Brook, NY 11790"
+,,,,,,,,USA
+,CR000028,CR,4/10/16,for globle mission,1-1110,$200.00,,49 Melville Ct
+,,,,,,,,"Stony Brook, NY 11793"
+,,,,,,,,USA
+,CR000023,CR,5/8/16,"for Globle mission",1-1110,$500.00,,49 Melville Ct
+,,,,,,,,"Stony Brook, NY 11793"
+,,,,,,,,USA
+
+,,,,,,"$1,300.00",$0.00
+
