@@ -7,16 +7,16 @@ Dennis Muhlestein, Dave (Davestechshop.net) and Arthur Liu
 
 1. Generate Card Transaction in AccountEdge: Reports -> Index to Reports -> Card File -> 
 Card Transactions -> Display -> Customize -> Enter the time range, select Receipts in 
-Source Journal -> then in Reports Fields, also select Address 1 -> Display -> Send -> 
+Source Journal -> then in Report Fields, also select Address 1 -> Display -> Send -> 
 Comma-Separated Text File -> Choose folder and change the file name accordingly. 
 If you have foreign receipt, make sure the currency symbol is in letter, such as 
 Chinese Yuan, the symbol is ￥，however you should use RMB instead, this is because 
 accountEdge or the system cannot handle the currency symbol well.
 
 2. Generate Bank Register in AccountEdge: Reports -> Banking -> Bank Register ->  
-Enter the time range -> Display -> Customize -> also select Payment Method and Note ->
-Display -> Send -> Comma-Separated Text File -> Choose folder and change the file name 
-accordingly.  
+Enter the time range -> Display -> Customize -> then in Report Fileds, also select Payment 
+Method and Note ->Display -> Send -> Comma-Separated Text File -> Choose folder and change 
+the file name accordingly.  
 
 Installation:
 
